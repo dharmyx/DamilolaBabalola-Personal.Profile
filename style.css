@@ -200,10 +200,10 @@ input[type=text] {
         font-size: 250%;
     }
     h1 {
-        font-size: 350%
+        font-size: 250%
     }
     h3 {
-        font-size: 200%;
+        font-size: 150%;
     }
 
     .btn {
@@ -213,7 +213,7 @@ input[type=text] {
 
     .myhobbies-content,
     .aboutme-content {
-        font-size: 150%;
+        font-size: 100%;
         line-height: 1.5;
         width: 85%;
     }
