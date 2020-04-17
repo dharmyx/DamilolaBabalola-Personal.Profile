@@ -196,11 +196,8 @@ input[type=text] {
 }
 
 @media only screen and (max-width: 768px) {
-    .content h1 h3 {
-        font-size: 250%;
-    }
     h1 {
-        font-size: 250%
+        font-size: 250%;
     }
     h3 {
         font-size: 150%;
