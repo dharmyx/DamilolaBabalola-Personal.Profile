@@ -165,7 +165,7 @@ input[type=text] {
 }
 
 #footer-items {
-    width: 70%;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -175,7 +175,9 @@ input[type=text] {
     font-family: 'Poiret One', cursive;
     font-weight: 700;
 }
-
+.footer {
+    font-size: 100%;
+}
 .facebook,
 .twitter,
 .instagram,
@@ -229,5 +231,10 @@ input[type=text] {
     .messaze {
     font-size: 100%;
     margin-bottom: 15%;
-
+    }
+    .footer {
+        font-size: 1px;
+        width: 100%;
+        margin-top: 20px;
+    }
 }
