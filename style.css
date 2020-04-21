@@ -119,7 +119,7 @@ h3 {
 }
 
 .form-box {
-    background-image: url('img/desk-bg5.jpg') no-repeat 50% 50%;
+    background-image: url('img/desk-bg5.jpg');
 }
 
 .form-content-box {
