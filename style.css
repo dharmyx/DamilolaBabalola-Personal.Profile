@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 html,
 body {
@@ -50,14 +51,14 @@ body {
 }
 
 h1 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', Open Sans;
     color: #FFFFFF;
     text-shadow: 0px 0px 500px #000;
     font-size: 500%;
 }
 
 h3 {
-    font-family: 'Poiret One', sans-serif;
+    font-family: 'Poiret One', Open Sans;
     color: #FFFFFF;
     text-shadow: 0px 0px 800px #000;
     font-size: 300%;
@@ -66,7 +67,7 @@ h3 {
 
 .btn {
     border-radius: 10px;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', Open Sans;
     color: #fc0f22;
     font-size: 145%;
     padding: 10px 20px;
@@ -97,7 +98,7 @@ h3 {
     margin: 0 auto;
     font-size: 200%;
     font-weight: 500;
-    font-family: 'Poiret One', sans-serif;
+    font-family: 'Poiret One', Open Sans;
     text-align: justify;
     width: 50%;
     padding-top: 20px;
@@ -109,7 +110,7 @@ h3 {
     margin: 0 auto;
     font-size: 200%;
     font-weight: 500;
-    font-family: 'Poiret One', sans-serif;
+    font-family: 'Poiret One', Open Sans;
     text-align: center;
     width: 50%;
     padding-top: 20px;
@@ -123,7 +124,7 @@ h3 {
 
 .form-content-box {
     margin: 0 auto;
-    font-family: 'Poiret One', sans-serif;
+    font-family: 'Poiret One', Open Sans;
     font-weight: 600;
     text-align: justify;
     width: 35%;
@@ -185,7 +186,7 @@ input[type=text] {
 .footer-contents {
     text-align: center;
     margin: 20px;
-    font-family: 'Poiret One', sans-serif;
+    font-family: 'Poiret One', Open Sans;
     font-weight: 700;
 }
 .footer {
