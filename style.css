@@ -15,7 +15,7 @@ body {
     height: 100%;
     width: 100%;
     margin: auto;
-    background: url('img/tourist.jpg') no-repeat 50% 50%;
+    background: url('img/desk-bg2.jpg') no-repeat 50% 50%;
     display: table;
     top: 0;
     background-size: cover;
@@ -45,6 +45,7 @@ body {
 .hey {
     font-family: 'Herr Von Muellerhoff', cursive;
     font-weight: 100;
+    color: #fc0f22;
     
 }
 
@@ -66,10 +67,10 @@ h3 {
 .btn {
     border-radius: 10px;
     font-family: 'Oswald', sans-serif;
-    color: #2c2325;
+    color: #fc0f22;
     font-size: 145%;
     padding: 10px 20px;
-    border: solid #2c2325 4px;
+    border: solid #fc0f22 4px;
     text-transform: uppercase;
     text-decoration: none;
 }
@@ -83,8 +84,8 @@ h3 {
 .myhobbies,
 .contactme,
 .talktome {
-    color: #2c2325;
-    background: #eee7df;
+    color: #FFFFFF;
+    background: #262626;
     margin: 0 auto;
     text-align: center;
     padding-top: 30px;
@@ -116,9 +117,14 @@ h3 {
     line-height: 1.75;
 }
 
+.form-box {
+    background-image: url('img/desk-bg5.jpg');
+}
+
 .form-content-box {
     margin: 0 auto;
     font-family: 'Poiret One', sans-serif;
+    font-weight: 600;
     text-align: justify;
     width: 35%;
     padding-top: 20px;
@@ -131,6 +137,7 @@ h3 {
 .messaze {
     font-size: 200%;
     margin-bottom: 20%;
+    color: #FFFFFF;
 }
 
 input[type=text] {
